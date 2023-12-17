@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "test title 1",
+            "details": "test details 1",
+            "is_completed": false
+        },
+        {
+            "id": 2,
+            "title": "test title 2",
+            "details": "test details 2",
+            "is_completed": false
+        },
+        {
+            "id": 3,
+            "title": "test title 3",
+            "details": "test details 3",
+            "is_completed": false
+        },
+        {
+            "id": 4,
+            "title": "test title 4",
+            "details": "test details 4",
+            "is_completed": false 
+        }
+    ]
+}

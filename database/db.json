@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Project Planner 2",
+      "details": "test details 2",
+      "is_completed": false
+    },
+    {
+      "id": 3,
+      "title": "test title 3",
+      "details": "test details 3",
+      "is_completed": true
+    },
+    {
+      "id": 4,
+      "title": "test title 4",
+      "details": "test details 4",
+      "is_completed": true
+    },
+    {
+      "title": "deneme",
+      "details": "deneme",
+      "is_completed": false,
+      "id": 5
+    },
+    {
+      "title": "project planner",
+      "details": "test description",
+      "is_completed": false,
+      "id": 6
+    }
+  ]
+}
